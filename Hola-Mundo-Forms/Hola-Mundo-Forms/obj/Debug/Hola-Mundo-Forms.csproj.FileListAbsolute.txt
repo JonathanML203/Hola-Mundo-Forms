@@ -1,0 +1,10 @@
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\bin\Debug\Hola-Mundo-Forms.exe.config
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\bin\Debug\Hola-Mundo-Forms.exe
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\bin\Debug\Hola-Mundo-Forms.pdb
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola-Mundo-Forms.csproj.AssemblyReference.cache
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola_Mundo_Forms.Form1.resources
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola_Mundo_Forms.Properties.Resources.resources
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola-Mundo-Forms.csproj.GenerateResource.cache
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola-Mundo-Forms.csproj.CoreCompileInputs.cache
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola-Mundo-Forms.exe
+D:\source\repos\Hola-Mundo-Forms\Hola-Mundo-Forms\obj\Debug\Hola-Mundo-Forms.pdb
